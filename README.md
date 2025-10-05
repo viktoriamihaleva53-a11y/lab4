@@ -21,7 +21,7 @@
 6. **Конец**
 
 ### Блок-схема 
-![5409138429297556699](https://github.com/user-attachments/assets/a0ea0966-bda5-4646-994d-9b5891dcc735)
+![5409138429297556699](https://github.com/user-attachments/assets/a0ea0966-bda5-4646-994d-9b5001dcc735)
 
 
 ## 2. Реализация программы
