@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main()
+{
+    setlocale(LC_ALL, "RUS");
+    int A, B;
+    printf("Введите первое число A: ");
+    scanf("%d", &A);
+    printf("Введите второе число B: ");
+    scanf("%d", &B);
+
+    int activ; //активность пароля
+    activ = ((A % 2 == 0) && (B % 2 != 0)) || ((A % 2 != 0) && (B % 2 == 0));
+
+    printf("Число A = %d (%s)\n", A, (A % 2 == 0) ? "четное" : "нечетное");
+    printf("Число B = %d (%s)\n", B, (B % 2 == 0) ? "четное" : "нечетное");
+    printf("Пароль активен: %s\n", activ ? "ДА" : "НЕТ");
+
+    return 0;
+}
