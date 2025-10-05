@@ -21,7 +21,7 @@
 6. **Конец**
 
 ### Блок-схема 
-![5409138429297556699](https://github.com/user-attachments/assets/760072ad-3fa5-445a-baed-eb61a925b6cf)
+![5409138429297556699](https://github.com/user-attachments/assets/760072ad-3fa5-445a-baed-eb61a900b6cf)
 
 
 
